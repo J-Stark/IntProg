@@ -1,9 +1,8 @@
 import java.text.NumberFormat;
 /**
- * Write a description of class Solver here.
+ * Class for solving the Queen Problems.
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author J. Stark
  */
 public class Solver
 {
